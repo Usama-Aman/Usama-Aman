@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Usama-Aman
-- 👀 I’m interested in Mobile App Development
+- 👀 I’m a Mobile App Developer
 - 🌱 I’m currently working in KOTLIN
-- 💞️ I’m looking to collaborate on Kotlin and compose 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Kotlin and compose related proects
+
 
 <!---
 Usama-Aman/Usama-Aman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
