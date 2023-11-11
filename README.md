@@ -53,9 +53,9 @@ Unit tests are added for all the tasks in the assignment.
 
 ##### Thanks And Regards
 
-Though this task can be done in many other ways, but i found these more precise and not over engineered.
-Hope you can have an idea about my work and consider me for the next interview.
-Thanks for reviewing my code.
-Have a great day.
+Though these task can be done in many other ways, but i found these more precise and not over engineered.
+Hope you can have an idea about my work and consider me for the next interview.  
+Thanks for reviewing my code.  
+Have a great day.  
 Happy Coding!!!!
 
