@@ -21,6 +21,6 @@ Experienced Android Developer with almost 5 years of expertise in Android applic
 
 ## Connect with Me
 
-- LinkedIn: [Usama Aman on LinkedIn]([https://www.linkedin.com/in/usama-aman/])
+- LinkedIn: [Usama Aman on LinkedIn](https://www.linkedin.com/in/usama-aman/)
 
 Feel free to explore my repositories and provide feedback. Let's connect and collaborate! 😊
