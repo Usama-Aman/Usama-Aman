@@ -17,7 +17,7 @@ Experienced Android Developer with almost 5 years of expertise in Android applic
 
 ## GitHub Stats
 
-[![Usama Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usama-Aman&show_icons=true&theme=radical)](https://github.com/Usama-Aman)
+[![Usama Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usama-Aman&show_icons=true&theme=dark)](https://github.com/Usama-Aman)
 
 ## Connect with Me
 
