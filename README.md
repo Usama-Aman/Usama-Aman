@@ -3,7 +3,7 @@
 
 ## About Me
 
-Experienced Android Developer with almost 5 years of expertise in Android application development. I have extensively worked with Kotlin, Jetpack Compose, and Java. I have a strong track record in delivering high-quality, user-friendly Android applications. I am very passionate about staying abreast of the latest technologies and trends. I am a proactive problem solver, an effective communicator, and a collaborative team player who is always willing to go the extra mile to ensure project success.
+Experienced Android Developer with plenty years of expertise in Android application development. I have extensively worked with Kotlin, Jetpack Compose, and Java. I have a strong track record in delivering high-quality, user-friendly Android applications. I am very passionate about staying abreast of the latest technologies and trends. I am a proactive problem solver, an effective communicator, and a collaborative team player who is always willing to go the extra mile to ensure project success.
 
 <!-- - 🌐 Check out my portfolio: [Usama Aman's Portfolio](https://your-portfolio-url.com) -->
 - 📫 Reach out to me at: [osamabutt428@gmail.com]
